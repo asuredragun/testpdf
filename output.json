@@ -1,0 +1,451 @@
+{
+    "Agua Buena - ABR 2024.pdf": {
+        "comprobante": {
+            "numero_folio": "907663",
+            "establecimiento": "PISCICULTURA AGUA BUENA (100544)",
+            "razon_social": "AQUACHILE SPA",
+            "rut_titular": "79800600-2",
+            "realizado_por": "Rodrigo Eduardo Ojeda Castro Ojeda Castro",
+            "tipo_declaracion": "GENERADOR INDUSTRIAL",
+            "estado": "ENVIADA",
+            "codigo_identificador": "4585755",
+            "fecha_declaracion": "14-05-2024",
+            "region": "Los Lagos",
+            "periodo_declarado": "Abril - 2024",
+            "comuna": "Puerto Octay"
+        },
+        "residuos": [
+            {
+                "residuo": "02 01 99",
+                "descripcion": "Residuos no especificados en otra categoría",
+                "cantidad_kg": 2400,
+                "tipo": "Vertedero",
+                "destino": "VERTEDERO INDUSTRIAL",
+                "transportista": "DORIN SERVICIOS LIMITADA",
+                "patente": "1"
+            },
+            {
+                "residuo": "02 01 99",
+                "descripcion": "Residuos no especificados en otra categoría",
+                "cantidad_kg": 790,
+                "tipo": "Vertedero",
+                "destino": "EL EMPALME",
+                "transportista": "1"
+            }
+        ]
+    },
+    "Agua Buena - Declaración_SINADER_folio_1000494 - DIC 2024.pdf": {
+        "comprobante": {
+            "tipo": "Recepción de Información",
+            "sistema": "Ventanilla Única del RETC",
+            "declaracion": {
+                "tipo": "Mensual de Residuos No Peligrosos",
+                "sistema_nacional": "Sistema Nacional de Declaración de Residuos (SINADER)",
+                "folio": "1000494",
+                "establecimiento": "PISCICULTURA AGUA BUENA",
+                "codigo_establecimiento": "100544",
+                "razon_social": "AQUACHILE SPA",
+                "rut_titular": "79800600-2",
+                "realizado_por": "Rodrigo Eduardo Ojeda Castro",
+                "tipo_declaracion": "Generador Industrial",
+                "estado": "Enviada Sin Movimientos",
+                "codigo_identificador": "4585755",
+                "fecha_declaracion": "14-01-2025",
+                "region": "Los Lagos",
+                "periodo_declarado": "Diciembre - 2024",
+                "comuna": "Puerto Octay"
+            },
+            "residuos": []
+        },
+        "nota": "La integridad y veracidad de la información es de exclusiva responsabilidad del Titular.",
+        "comentario": "Ante un proceso de fiscalización, debe evidenciar las metodologías utilizadas de estimaciones y considerar comprobantes que permitan verificar la información reportada."
+    },
+    "Agua Buena - Declaración_SINADER_folio_856717.pdf": {
+        "comprobante": {
+            "n_folio": "856717",
+            "establecimiento": "PISCICULTURA AGUA BUENA (100544)",
+            "razon_social": "AQUACHILE SPA",
+            "rut_titular": "79800600-2",
+            "realizado_por": "Rodrigo Eduardo Ojeda Castro Ojeda Castro",
+            "tipo_de_declaracion": "GENERADOR INDUSTRIAL",
+            "estado": "ENVIADA SIN MOVIMIENTOS",
+            "codigo_identificador": "4585755",
+            "fecha_declaracion": "14-02-2024",
+            "region": "Los Lagos",
+            "periodo_declarado": "Enero - 2024",
+            "comuna": "Puerto Octay"
+        },
+        "residuos": [
+            {
+                "residuo": "Sin Movimientos",
+                "cantidad_kg": null,
+                "tipo": null,
+                "tratamiento": null,
+                "destino": null,
+                "transportista": null,
+                "patente": null
+            }
+        ]
+    },
+    "Agua Buena - Declaración_SINADER_folio_868652 - FEB 2024.pdf": {
+        "comprobante": {
+            "numero_folio": "868652",
+            "establecimiento": "PISCICULTURA AGUA BUENA (100544)",
+            "razon_social": "AQUACHILE SPA",
+            "rut_titular": "79800600-2",
+            "realizado_por": "Rodrigo Eduardo Ojeda Castro Ojeda Castro",
+            "tipo_declaracion": "GENERADOR INDUSTRIAL",
+            "estado": "ENVIADA",
+            "codigo_identificador": "4585755",
+            "fecha_declaracion": "14-03-2024",
+            "region": "Los Lagos",
+            "periodo_declarado": "Febrero - 2024",
+            "comuna": "Puerto Octay"
+        },
+        "residuos": [
+            {
+                "residuo": "02 02 04 | Lodos del tratamiento in situ de efluentes",
+                "cantidad_kg": 30000,
+                "tipo": "Compostaje",
+                "destino": "PLANTA RILESUR",
+                "transportista": "1",
+                "patente": ""
+            }
+        ]
+    },
+    "Agua Buena - Declaración_SINADER_folio_888389 - MAR 2024.pdf": {
+        "comprobante": {
+            "n_folio": "888389",
+            "establecimiento": "PISCICULTURA AGUA BUENA (100544)",
+            "razon_social": "AQUACHILE SPA",
+            "rut_titular": "79800600-2",
+            "realizado_por": "Rodrigo Eduardo Ojeda Castro Ojeda Castro",
+            "tipo_de_declaracion": "GENERADOR INDUSTRIAL",
+            "estado": "ENVIADA SIN MOVIMIENTOS",
+            "codigo_identificador": "4585755",
+            "fecha_declaracion": "12-04-2024",
+            "region": "Los Lagos",
+            "periodo_declarado": "Marzo - 2024",
+            "comuna": "Puerto Octay"
+        },
+        "residuos": {
+            "periodo": "Sin Movimientos",
+            "datos": []
+        }
+    },
+    "Agua Buena - Declaración_SINADER_folio_917166 - MAY 2024.pdf": {
+        "comprobante": {
+            "tipo": "Recepción de Información",
+            "sistema": "Ventanilla Única del RETC",
+            "declaracion": "Mensual de Residuos No Peligrosos",
+            "sistema_nacional": "Sistema Nacional de Declaración de Residuos (SINADER)",
+            "folio": "917166",
+            "establecimiento": {
+                "nombre": "PISCICULTURA AGUA BUENA",
+                "codigo": "100544"
+            },
+            "razon_social": "AQUACHILE SPA",
+            "rut_titular": "79800600-2",
+            "realizado_por": "Rodrigo Eduardo Ojeda Castro Ojeda Castro",
+            "tipo_declaracion": "Generador Industrial",
+            "estado": "Enviada Sin Movimientos",
+            "codigo_identificador": "4585755",
+            "fecha_declaracion": "13-06-2024",
+            "region": "Los Lagos",
+            "periodo_declarado": "Mayo - 2024",
+            "comuna": "Puerto Octay"
+        },
+        "residuos": [
+            {
+                "residuo": "Sin Movimientos",
+                "cantidad_kg": null,
+                "tipo": null,
+                "tratamiento": null,
+                "destino": null,
+                "transportista": null,
+                "patente": null
+            }
+        ],
+        "observaciones": "La integridad y veracidad de la información es de exclusiva responsabilidad del Titular, el cual ante un proceso de fiscalización debe evidenciar las metodologías utilizadas de estimaciones (si fuera el caso) y considerar comprobantes (ej.: voucher de pesaje, guías de despacho u otros) que permitan verificar la información reportada para la gestión de sus residuos.",
+        "documento_generado": "electrónicamente"
+    },
+    "Agua Buena - Declaración_SINADER_folio_929364 - JUN 2024.pdf": {
+        "comprobante": {
+            "tipo": "Recepción de Información",
+            "sistema": "Ventanilla Única del RETC",
+            "declaracion_mensual": "Residuos No Peligrosos",
+            "sistema_nacional": "Declaración de Residuos (SINADER)",
+            "n_folio": "929364",
+            "establecimiento": "Piscicultura Agua Buena",
+            "codigo_establecimiento": "100544",
+            "razon_social": "Aquachile SPA",
+            "rut_titular": "79800600-2",
+            "realizado_por": "Rodrigo Eduardo Ojeda Castro Ojeda Castro",
+            "tipo_declaracion": "Generador Industrial",
+            "estado": "Enviada Sin Movimientos",
+            "codigo_identificador": "4585755",
+            "fecha_declaracion": "12-07-2024",
+            "region": "Los Lagos",
+            "periodo_declarado": "Junio - 2024",
+            "comuna": "Puerto Octay",
+            "informacion": "El presente mensaje únicamente da cuenta de la recepción de la información reportada por el establecimiento individualizado, respecto del cumplimiento de las obligaciones establecidas en el D.S. Nº1/2013 MMA (Art. Nº26, 27 o 28). Así como también en cumplimiento de la Resolución Exenta N° 144/2020, Norma Básica para la Implementación de Modificación al Reglamento de Emisiones y Transferencias de Contaminantes, RETC.",
+            "responsabilidad": "La integridad y veracidad de la información es de exclusiva responsabilidad del Titular, el cual ante un proceso de fiscalización debe evidenciar las metodologías utilizadas de estimaciones (si fuera el caso) y considerar comprobantes (ej.: voucher de pesaje, guías de despacho u otros) que permitan verificar la información reportada para la gestión de sus residuos.",
+            "residuos": [
+                {
+                    "residuo": "Sin Movimientos",
+                    "cantidad_kg": null,
+                    "tipo": null,
+                    "tratamiento": null,
+                    "destino": null,
+                    "transportista": null,
+                    "patente": null
+                }
+            ]
+        }
+    },
+    "Agua Buena - Declaración_SINADER_folio_952693 - AGO 2024.pdf": {
+        "comprobante": {
+            "n_folio": "952693",
+            "establecimiento": "PISCICULTURA AGUA BUENA (100544)",
+            "razon_social": "AQUACHILE SPA",
+            "rut_titular": "79800600-2",
+            "realizado_por": "Rodrigo Eduardo Ojeda Castro Ojeda Castro",
+            "tipo_de_declaracion": "GENERADOR INDUSTRIAL",
+            "estado": "ENVIADA",
+            "codigo_identificador": 4585755,
+            "fecha_declaracion": "13-09-2024",
+            "region": "Los Lagos",
+            "periodo_declarado": "Agosto - 2024",
+            "comuna": "Puerto Octay"
+        },
+        "residuos": [
+            {
+                "residuo": "02 02 04",
+                "descripcion": "Lodos del tratamiento in situ de efluentes",
+                "cantidad": 28000,
+                "unidad": "kg",
+                "tratamiento": "Compostaje",
+                "destino": "PLANTA",
+                "transportista": "RILESUR 1"
+            },
+            {
+                "residuo": "02 01 03",
+                "descripcion": "Residuos de tejidos de vegetales",
+                "cantidad": 2000,
+                "unidad": "kg",
+                "tratamiento": "Compostaje",
+                "destino": "PLANTA",
+                "transportista": "RILESUR 1"
+            }
+        ]
+    },
+    "Agua Buena - Declaración_SINADER_folio_963341 - SEP 2024.pdf": {
+        "comprobante": {
+            "n_folio": "963341",
+            "establecimiento": "PISCICULTURA AGUA BUENA (100544)",
+            "razon_social": "AQUACHILE SPA",
+            "rut_titular": "79800600-2",
+            "realizado_por": "Rodrigo Eduardo Ojeda Castro Ojeda Castro",
+            "tipo_de_declaracion": "GENERADOR INDUSTRIAL",
+            "estado": "ENVIADA",
+            "codigo_identificador": "4585755",
+            "fecha_declaracion": "14-10-2024",
+            "region": "Los Lagos",
+            "periodo_declarado": "Septiembre - 2024",
+            "comuna": "Puerto Octay"
+        },
+        "residuos": [
+            {
+                "residuo": "02 02 04",
+                "descripcion": "Lodos del tratamiento in situ de efluentes",
+                "cantidad_kg": 10000,
+                "tipo": "Compostaje",
+                "destino": "PLANTA RILESUR",
+                "transportista": "",
+                "patente": ""
+            },
+            {
+                "residuo": "02 01 02",
+                "descripcion": "Residuos de tejidos de animales",
+                "cantidad_kg": 5000,
+                "tipo": "Compostaje",
+                "destino": "PLANTA RILESUR",
+                "transportista": "",
+                "patente": ""
+            }
+        ]
+    },
+    "Agua Buena - Declaración_SINADER_folio_977385 - OCT 2024.pdf": {
+        "comprobante": {
+            "tipo": "Recepción de Información",
+            "sistema": "Ventanilla Única del RETC",
+            "declaracion_mensual": "Residuos No Peligrosos",
+            "sistema_nacional": "Sistema Nacional de Declaración de Residuos (SINADER)",
+            "numero_folio": "977385",
+            "establecimiento": {
+                "nombre": "Piscicultura Agua Buena",
+                "codigo": "100544"
+            },
+            "razon_social": "Aquachile SPA",
+            "rut_titular": "79800600-2",
+            "realizado_por": "Rodrigo Eduardo Ojeda Castro Ojeda Castro",
+            "tipo_declaracion": "Generador Industrial",
+            "estado": "Enviada",
+            "codigo_identificador": "4585755",
+            "fecha_declaracion": "14-11-2024",
+            "region": "Los Lagos",
+            "periodo_declarado": "Octubre - 2024",
+            "comuna": "Puerto Octay"
+        },
+        "residuos": [
+            {
+                "residuo": "02 01 99",
+                "descripcion": "Residuos no especificados en otra categoría",
+                "cantidad_kg": 2400,
+                "tipo_tratamiento": "Vertedero",
+                "destino": "Vertedero Industrial",
+                "transportista": "Dorin Servicios Limitada",
+                "patente": "1"
+            }
+        ],
+        "advertencia": "La integridad y veracidad de la información es de exclusiva responsabilidad del Titular."
+    },
+    "Agua Buena - Declaración_SINADER_folio_990955 - NOV 2024.pdf": {
+        "comprobante": {
+            "n_folio": "990955",
+            "establecimiento": "PISCICULTURA AGUA BUENA (100544)",
+            "razon_social": "AQUACHILE SPA",
+            "rut_titular": "79800600-2",
+            "realizado_por": "Rodrigo Eduardo Ojeda Castro Ojeda Castro",
+            "tipo_de_declaracion": "GENERADOR INDUSTRIAL",
+            "estado": "ENVIADA",
+            "codigo_identificador": "4585755",
+            "fecha_declaracion": "13-12-2024",
+            "region": "Los Lagos",
+            "periodo_declarado": "Noviembre - 2024",
+            "comuna": "Puerto Octay"
+        },
+        "residuos": [
+            {
+                "codigo_residuo": "02 02 03",
+                "descripcion": "Materiales inadecuados para el consumo o la elaboración",
+                "cantidad_kg": 10450,
+                "tipo_tratamiento": "Reciclaje de residuos hidrobiológicos para consumo animal",
+                "transportista": "PESQUERA FIORDO AUSTRAL S A",
+                "patente": "1"
+            }
+        ]
+    },
+    "declaracion1621713_25518.pdf": {
+        "declaracion_residuos_peligrosos": {
+            "estatus": "ABIERTO",
+            "folio": "1621713",
+            "generador": {
+                "numero_identificacion": "R10G00641 [VU 5452648]",
+                "autoridad_sanitaria": "SEREMI MINSAL REGION 10",
+                "nombre_empresa": "EXPORTADORA LOS FIORDOS LIMITADA",
+                "rut_empresa": "79872420-7",
+                "direccion_establecimiento": "PANAMERICANA SUR KM 1074",
+                "comuna": "Calbuco",
+                "telefono": "65-2437300",
+                "fax": "",
+                "persona_responsable": {
+                    "rut": "17993453-1",
+                    "nombre": "IVAN ALEJANDRO SALGADO PERALTA",
+                    "correo_electronico": "ivan.salgado@aquachile.com"
+                },
+                "empresa_transportista": {
+                    "rut": "76329072-7",
+                    "nombre": "RESITER INDUSTRIAL S.A."
+                },
+                "empresa_destinataria": {
+                    "codigo": "R08D00002 [77295110-8]",
+                    "nombre": "ECOBIO SPA",
+                    "direccion": "N-599 VARIANTE CRUZ PARADA"
+                },
+                "firma_fecha_hora": "06/10/2023 02:30 pm"
+            },
+            "observaciones": "",
+            "detalle_de_declaracion": [
+                {
+                    "numero": 1,
+                    "descripcion_residuo": "ACEITES LUBRICANTES SUCIOS SIN PC",
+                    "codigo_principal": "I.8",
+                    "codigo_secundario": "A3020",
+                    "lista_a": "IN",
+                    "peligrosidad": "líquido",
+                    "estado_fisico": "2 tambores 200 lts",
+                    "estado_residuo": "Abierto",
+                    "cantidad_kg": 674
+                },
+                {
+                    "numero": 2,
+                    "descripcion_residuo": "FILTROS DE MANGA CON MEDICAMENTO",
+                    "codigo_principal": "I.2",
+                    "codigo_secundario": "A4010",
+                    "lista_a": "TA",
+                    "peligrosidad": "sólido",
+                    "estado_fisico": "1 Maxisaco",
+                    "estado_residuo": "Abierto",
+                    "cantidad_kg": 65
+                },
+                {
+                    "numero": 3,
+                    "descripcion_residuo": "ENVASES VACIOS DE PRODUCTOS QUIMICOS CORROSIVOS",
+                    "codigo_principal": "III.2",
+                    "codigo_secundario": "A4130",
+                    "lista_a": "CO",
+                    "peligrosidad": "sólido",
+                    "estado_fisico": "3 Maxisaco",
+                    "estado_residuo": "Abierto",
+                    "cantidad_kg": 166
+                },
+                {
+                    "numero": 4,
+                    "descripcion_residuo": "MATERIALES CON RESTOS DE MEDICAMENTO",
+                    "codigo_principal": "I.2",
+                    "codigo_secundario": "A4010",
+                    "lista_a": "TA",
+                    "peligrosidad": "sólido",
+                    "estado_fisico": "1 Bins",
+                    "estado_residuo": "Abierto",
+                    "cantidad_kg": 32
+                },
+                {
+                    "numero": 5,
+                    "descripcion_residuo": "CHATARRA ELECTRONICA",
+                    "codigo_principal": "II.13",
+                    "codigo_secundario": "A1180",
+                    "lista_a": "TL",
+                    "peligrosidad": "sólido",
+                    "estado_fisico": "1 Bins",
+                    "estado_residuo": "Abierto",
+                    "cantidad_kg": 308
+                },
+                {
+                    "numero": 6,
+                    "descripcion_residuo": "HUAIPES CONTAMINADOS CON HIDROCARBURO",
+                    "codigo_principal": "III.3",
+                    "codigo_secundario": "A3020",
+                    "lista_a": "IN",
+                    "peligrosidad": "sólido",
+                    "estado_fisico": "1 Bins",
+                    "estado_residuo": "Abierto",
+                    "cantidad_kg": 145
+                },
+                {
+                    "numero": 7,
+                    "descripcion_residuo": "PRODUCTOS QUIMICOS DADOS DE BAJA POR VENCIMIENTO",
+                    "codigo_principal": "I.4",
+                    "codigo_secundario": "A4090",
+                    "lista_a": "RE,CO",
+                    "peligrosidad": "sólido",
+                    "estado_fisico": "1 Bins",
+                    "estado_residuo": "Abierto",
+                    "cantidad_kg": 191
+                }
+            ],
+            "total_cantidad_kg": 1581
+        }
+    }
+}
